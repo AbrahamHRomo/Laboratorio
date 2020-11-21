@@ -20,7 +20,7 @@ es incorrecta, imprimir ¡No. Por favor intenta de nuevo!, lo que permite
 al estudiante intentar la misma pregunta de manera repetida hasta que
 finalmente la conteste correctamente.
 pag 152
-*/
+*///ivanna en forma de fichas
 
 #include<stdio.h>
 #include<stdlib.h>
